@@ -1,0 +1,62 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+}
+
+.container{
+    font-family: inter;
+}
+
+.navbar{
+    display: flex;
+    background-color:#F55A5A;
+    padding: 15px;
+}
+
+.nav-elements{
+    display: flex;
+    margin: 0 auto;
+}
+
+.nav-icon{
+    width: 24px;
+    height: 16px;
+    align-self: center;
+}
+
+.nav-title{
+    padding-left:10px;
+    color: white;
+}
+
+.main-content{
+    display: flex;
+    padding: 40px 15px 20px 15px;
+}
+
+.destination-content{
+    padding: 20px;
+}
+
+.pin-icon{
+    padding: 0px 7px 0px 0px;
+    width: 16px;
+}
+
+.mapsUrl{
+    padding: 15px;
+    color:#918E9B;
+}
+
+.destination-title{
+    padding-top: 12px;
+}
+
+.date-range{
+    font-weight: bold;
+    padding-top:12px;
+}
+
+.destination-description{
+    padding-top:12px;
+}
